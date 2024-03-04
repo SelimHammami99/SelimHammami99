@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Front End Developer
 --------------------------
 
-* 🌍  I'm based in Tunis, Tunisia
+* 🌍  I'm based in Coimbra, Portugal
 * ✉️  You can contact me at [aselim.hammami@gmail.com](mailto:aselim.hammami@gmail.com)
-* ⚡  I'm currently working with React
+
 
 ### Skills
 
