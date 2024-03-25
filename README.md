@@ -28,6 +28,6 @@ I am a Fullstack Developer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/SelimHammami99" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmed-selim-hammami-b09aa11bb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/ahmed-selim-hammami-b09aa11bb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<a href="https://app.daily.dev/hmem99"><img src="https://api.daily.dev/devcards/v2/A9G88u5Xzg8cFIDaMHxe8.png?r=9be&type=default" width="356" alt="Selim's Dev Card"/></a>
+
